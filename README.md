@@ -138,5 +138,3 @@ This repo implement by Jin Fagang. Using this under Apache License.
 # limitations under the License.
 ```
 
-你好，这是鬼
-
