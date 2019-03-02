@@ -30,7 +30,7 @@ tf.app.flags.DEFINE_string('model_prefix', 'poems', 'model save prefix.')
 tf.app.flags.DEFINE_integer('epochs', 50, 'train how many epochs.')
 
 FLAGS = tf.app.flags.FLAGS
-
+# nihao
 
 def run_training():
     if not os.path.exists(FLAGS.model_dir):
